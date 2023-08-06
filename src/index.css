@@ -11,3 +11,46 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.row{
+  display: flex;
+}
+
+textarea{
+  width: 100%;
+  border-radius: 5px;
+}
+
+.text_area_color_dark{
+  background-color: rgb(8, 106, 77);
+  border: solid 1px green;
+}
+
+.text_area_color_light{
+  background-color: rgb(183, 183, 183);
+  border: solid 1px rgb(197, 149, 3);
+}
+
+.clr_bg_orange_1{
+  background-color:rgb(237, 156, 34);
+}
+
+.clr_bg_white_1{
+  background-color:rgb(255, 255, 255);
+}
+
+.clr_green_1{
+  background-color: rgb(7, 102, 96);
+}
+
+.clr_bg_g_1{
+  background-color: rgb(15, 45, 57);
+}
+
+.clr_bg_g_2{
+  background-color: rgb(8, 106, 77);
+}
+
+mark{
+  background-color: rgb(68, 157, 163);
+}
